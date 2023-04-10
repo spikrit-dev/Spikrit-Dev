@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Spikrit from Thailand<br><br>- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning R programming<br>- ⚡ In my free time I read, exercise, listen music</p>
+<p align="left">I'm Spikrit from Thailand<br><br>- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning Vue.JS<br>- ⚡ In my free time I read, exercise, listen music</p>
 
 ###
 
